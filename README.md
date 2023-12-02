@@ -48,3 +48,17 @@ git clone https://github.com/your-username/kodluyoruz-website.git
 cd kodluyoruz-website
 
 # Open the HTML files in your preferred browser
+
+##Anasayfa
+![image](https://github.com/Okyanusaydgn/PATIKA-BOLUM-SONU-CALISMASI/assets/121745165/34372e17-480d-4afc-a677-1e25519c0fa5)
+![image](https://github.com/Okyanusaydgn/PATIKA-BOLUM-SONU-CALISMASI/assets/121745165/c8a6ffeb-1d59-4965-b0cf-45e5122deb4a)
+![image](https://github.com/Okyanusaydgn/PATIKA-BOLUM-SONU-CALISMASI/assets/121745165/ba2e7530-f7ed-4d92-b975-3b520576c115)
+
+## Hakkımızda
+![image](https://github.com/Okyanusaydgn/PATIKA-BOLUM-SONU-CALISMASI/assets/121745165/681e139b-2efd-40b7-85c4-d3bf1a5fbb44)
+
+##Contact
+![image](https://github.com/Okyanusaydgn/PATIKA-BOLUM-SONU-CALISMASI/assets/121745165/f05b8b65-483f-413f-91b4-36e8783d831b)
+
+
+

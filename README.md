@@ -1,38 +1,46 @@
-Kodluyoruz Website
-This repository contains the source code for the Kodluyoruz website. The website is built using HTML and includes sections for the homepage, about us, and contact information.
+# Kodluyoruz Website
 
-Table of Contents
-Description
-Preview
-Pages
-Usage
-Contributing
-License
-Description
-The Kodluyoruz website is a simple HTML-based website featuring sections for the homepage, an "About Us" page, and a "Contact" page. Each page has its unique content and structure.
+This repository contains the HTML source code for the Kodluyoruz website. The website includes three main pages: Homepage, About Us, and Contact.
 
-Preview
-Add screenshot(s) or GIF(s) here to visually represent your website.
+## Table of Contents
+- [Description](#description)
+- [Preview](#preview)
+- [Pages](#pages)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
 
-Pages
-Homepage (index.html):
+## Description
 
-Features a navigation bar with links to the homepage, about us, and contact pages.
-Contains a section with articles, each represented by an <article> tag.
-About Us Page (about-us.html):
+The Kodluyoruz website is a static web page built with HTML. It provides information about Kodluyoruz and includes sections for articles and contact details.
 
-Provides information about Kodluyoruz, including a brief description and images.
-Includes a list of points about Kodluyoruz using <ol>.
-Contact Page (contact.html):
+## Preview
 
-Displays contact information, including address and phone number.
-Utilizes the <address> tag for the address.
-Includes links for phone number and email.
-Usage
+[Add screenshot(s) or GIF(s) here to visually represent your website.]
+
+## Pages
+
+### 1. Homepage (`index.html`)
+
+- Navigation bar with links to the homepage, about us, and contact pages.
+- Section with articles, each represented by an `<article>` tag.
+
+### 2. About Us Page (`about-us.html`)
+
+- Information about Kodluyoruz, including a brief description and images.
+- List of points about Kodluyoruz using `<ol>`.
+
+### 3. Contact Page (`contact.html`)
+
+- Contact information, including address and phone number.
+- Utilizes the `<address>` tag for the address.
+- Includes links for phone number and email.
+
+## Usage
+
 To view the website locally, follow these steps:
 
-bash
-Copy code
+```bash
 # Clone the repository
 git clone https://github.com/your-username/kodluyoruz-website.git
 
@@ -40,8 +48,3 @@ git clone https://github.com/your-username/kodluyoruz-website.git
 cd kodluyoruz-website
 
 # Open the HTML files in your preferred browser
-Contributing
-Feel free to contribute to the project by opening issues or submitting pull requests. Follow the Contributing Guidelines for more details.
-
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
